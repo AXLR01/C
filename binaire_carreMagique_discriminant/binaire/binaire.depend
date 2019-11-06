@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555707405 source:c:\users\axlr\desktop\binaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1555707405 source:c:\users\axlr\desktop\c\exos c\binaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

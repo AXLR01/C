@@ -1,0 +1,8 @@
+Bosse;Hugo;12345678
+chivet;alex;65485654
+Chivet;Valentin;12
+Fée;Samanta;03-20-30-40-50
+ghj;gfdg;45
+gontrand;oui;77852
+vfdg;dgdf;3151
+Wacrenier;Alain;42

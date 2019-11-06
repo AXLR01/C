@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553867647 source:c:\users\axlr\desktop\carre magique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

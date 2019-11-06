@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\AXLR\Desktop\TP2\Exo1\main.c(24,11): warning C4477:  'scanf_s' : la chaîne de format '%u' nécessite un argument de type 'unsigned int *', mais l'argument variadique 1 est de type 'unsigned short *'
+C:\Users\AXLR\Desktop\TP2\Exo1\main.c(24,11): message :  utilisez '%hu' dans la chaîne de format
+  Exo1.vcxproj -> C:\Users\AXLR\Desktop\TP2\Debug\Exo1.exe

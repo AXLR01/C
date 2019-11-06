@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\AXLR\Desktop\tp isen\TP3\EXO4\main.c(18,30): warning C4244:  '-=' : conversion de 'double' en 'unsigned __int64', perte possible de données
+C:\Users\AXLR\Desktop\tp isen\TP3\EXO4\main.c(36,20): warning C4244:  '-=' : conversion de 'double' en 'unsigned int', perte possible de données
+C:\Users\AXLR\Desktop\tp isen\TP3\EXO4\main.c(41,39): warning C4244:  '-=' : conversion de 'double' en 'unsigned int', perte possible de données
+C:\Users\AXLR\Desktop\tp isen\TP3\EXO4\main.c(44,56): warning C4244:  '-=' : conversion de 'double' en 'unsigned int', perte possible de données
+C:\Users\AXLR\Desktop\tp isen\TP3\EXO4\main.c(64,46): warning C4244:  '=' : conversion de 'unsigned __int64' en 'unsigned int', perte possible de données
+C:\Users\AXLR\Desktop\tp isen\TP3\EXO4\main.c(9,1): warning C4244:  'initialisation' : conversion de 'double' en 'unsigned __int64', perte possible de données
+  EXO4.vcxproj -> C:\Users\AXLR\Desktop\tp isen\TP3\Debug\EXO4.exe

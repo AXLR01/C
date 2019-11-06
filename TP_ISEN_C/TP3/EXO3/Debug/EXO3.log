@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\AXLR\Desktop\tp isen\TP3\EXO3\main.c(33,16): warning C4133:  'fonction' : types incompatibles - de 'float *' à 'int *'
+C:\Users\AXLR\Desktop\tp isen\TP3\EXO3\main.c(33,25): warning C4133:  'fonction' : types incompatibles - de 'float *' à 'int *'
+C:\Users\AXLR\Desktop\tp isen\TP3\EXO3\main.c(38,18): warning C4133:  'fonction' : types incompatibles - de 'float *' à 'int *'
+C:\Users\AXLR\Desktop\tp isen\TP3\EXO3\main.c(38,30): warning C4133:  'fonction' : types incompatibles - de 'float *' à 'int *'
+C:\Users\AXLR\Desktop\tp isen\TP3\EXO3\main.c(24,1): warning C4244:  'initialisation' : conversion de 'float' en 'int', perte possible de données
+C:\Users\AXLR\Desktop\tp isen\TP3\EXO3\main.c(52,31): warning C4133:  'fonction' : types incompatibles - de 'float *' à 'int *'
+C:\Users\AXLR\Desktop\tp isen\TP3\EXO3\main.c(144,40): warning C4244:  '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\AXLR\Desktop\tp isen\TP3\EXO3\main.c(149,16): warning C4244:  '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\AXLR\Desktop\tp isen\TP3\EXO3\main.c(164,23): warning C4133:  'fonction' : types incompatibles - de 'int [30]' à 'float *'
+  EXO3.vcxproj -> C:\Users\AXLR\Desktop\tp isen\TP3\Debug\EXO3.exe

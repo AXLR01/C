@@ -1,0 +1,13 @@
+﻿  main.c
+C:\Users\AXLR\Desktop\TP5\EXO1\main.c(151,20): warning C4047:  '!=' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+C:\Users\AXLR\Desktop\TP5\EXO1\main.c(151,39): warning C4047:  'fonction' : les niveaux d'indirection de 'int *' et de 'int' sont différents
+C:\Users\AXLR\Desktop\TP5\EXO1\main.c(151,39): warning C4024:  'initTab2' : types différents pour le paramètre formel et réel 1
+C:\Users\AXLR\Desktop\TP5\EXO1\main.c(158,95): warning C4047:  'fonction' : les niveaux d'indirection de 'int **' et de 'int *' sont différents
+C:\Users\AXLR\Desktop\TP5\EXO1\main.c(158,95): warning C4024:  'ajoutElementDansTableau' : types différents pour le paramètre formel et réel 1
+C:\Users\AXLR\Desktop\TP5\EXO1\main.c(159,20): warning C4047:  'fonction' : les niveaux d'indirection de 'int *' et de 'int' sont différents
+C:\Users\AXLR\Desktop\TP5\EXO1\main.c(159,20): warning C4024:  'afficheTab2' : types différents pour le paramètre formel et réel 1
+C:\Users\AXLR\Desktop\TP5\EXO1\main.c(161,13): warning C4022:  'free' : incompatibilité de pointeur pour le paramètre réel 1
+C:\Users\AXLR\Desktop\TP5\EXO1\main.c(150,1): warning C4047:  'initialisation' : les niveaux d'indirection de 'int' et de 'int *' sont différents
+C:\Users\AXLR\Desktop\TP5\EXO1\main.c(75): warning C4716:  'AfficheHeure' : doit retourner une valeur
+C:\Users\AXLR\Desktop\TP5\EXO1\main.c(95): warning C4716:  'afficheTab1' : doit retourner une valeur
+  EXO1.vcxproj -> C:\Users\AXLR\Desktop\TP5\Debug\EXO1.exe
