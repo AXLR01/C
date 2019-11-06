@@ -1,3 +1,0 @@
-﻿  exo2.c
-c:\users\valen\source\repos\tp6\exo2\exo2.c(79): warning C4047: 'return' : les niveaux d'indirection de 'int' et de 'char [4]' sont différents
-  exo2.vcxproj -> C:\Users\valen\source\repos\TP6\Debug\exo2.exe

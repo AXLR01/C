@@ -1,4 +1,0 @@
-﻿  exo3.c
-c:\users\valen\source\repos\tp4\exo3\exo3.c(14): warning C4013: '_getch' non défini(e) ; extern retournant int pris par défaut
-  exo3.vcxproj -> C:\Users\valen\source\repos\TP4\Debug\exo3.exe
-  exo3.vcxproj -> C:\Users\valen\source\repos\TP4\Debug\exo3.pdb (Partial PDB)

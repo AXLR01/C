@@ -1,6 +1,0 @@
-bard;alexis;775
-chivet;valentin;115
-debret;ced;45
-Fée;Samanta;0320304050
-molo;alex;666
-Pépé;Jean;112

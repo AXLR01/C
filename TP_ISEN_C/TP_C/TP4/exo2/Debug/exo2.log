@@ -1,5 +1,0 @@
-﻿  exo2.c
-c:\users\valen\source\repos\tp4\exo2\exo2.c(17): warning C4133: 'initialisation' : types incompatibles - de 'int *' à 'char *'
-c:\users\valen\source\repos\tp4\exo2\exo2.c(9): warning C4101: 'tmp' : variable locale non référencée
-  exo2.vcxproj -> C:\Users\valen\source\repos\TP4\Debug\exo2.exe
-  exo2.vcxproj -> C:\Users\valen\source\repos\TP4\Debug\exo2.pdb (Partial PDB)
